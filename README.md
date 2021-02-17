@@ -8,12 +8,12 @@
 
 ---
 
-# PRITu's Command Handler
+## PRITu's Command Handler
 Why not make your code cleaner and easier to acess when you can, follow these easy steps to use a command handler.
 
 ---
 
-# Steps
+## Steps
 1. Download the code from the github repo.
 2. Edit config.json file with your bot's token
 3. When you have it in the code editor run command "npm i ascii-table" in the terminal.
@@ -22,7 +22,7 @@ And yahh you are done enjoy!
 
 ---
 
-- ### 📝 Discord/Support Servers,
+- ## 📝 Discord/Support Servers,
 
 ---
 
@@ -38,3 +38,6 @@ And yahh you are done enjoy!
 
 ---
 
+> Fork it and give an **Epic Star** ✨
+
+---
